@@ -20,3 +20,6 @@ print(demo_dict)
 # Update element
 demo_dict["bb"] = "BBB"
 print(demo_dict)
+
+# Contains
+print("cc" in demo_dict)
