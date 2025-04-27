@@ -1,3 +1,4 @@
+# try catch/except
 try:
     result = 1 / 0
 except ZeroDivisionError:
