@@ -1,3 +1,4 @@
+# string template / format string
 message = "{year} : {month}".format(year= 2025, month= 4)
 print(message)
 
